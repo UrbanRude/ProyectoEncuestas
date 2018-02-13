@@ -19,19 +19,19 @@
 	<div>
 		<p>
 			<h4>Registrate</h4>
-			<form id="formRegistre">
+			<form id="fromRegistre">
 				<label for="nameUser">Nombre:</label>
-				<input type="text" id="nameUser" name="nameUser" placeholder="Ingresa tu nombre" required="">
+				<input type="text" id="nameUser" name="nameUser" placeholder="Ingresa tu nombre" >
 				<label for="apUser">Apellidos:</label>
-				<input type="text" id="appUser" name="appUser" placeholder="Ingresa tus apellidos" required="">
+				<input type="text" id="appUser" name="appUser" placeholder="Ingresa tus apellidos" >
 				<label for="ocupacionUser">Ocupacion:</label>
-				<input type="text" id="ocupacionUser" name="ocupacionUser" placeholder="Ingresa tu ocupacion" required="">
+				<input type="text" id="ocupacionUser" name="ocupacionUser" placeholder="Ingresa tu ocupacion" >
 				<label for="emailUser">Correo:</label>
-				<input type="email" id="emailUser" name="emailUser" placeholder="Ingresa tu email" required="">	
+				<input type="email" id="emailUser" name="emailUser" placeholder="Ingresa tu email" >	
 				<label for="passUser">Password:</label>
-				<input type="password" id="passUser" name="passUser" placeholder="Ingresa tu password" required="">		
-				<label for="passIIUser">Confirma tu password</label>		
-				<input type="password" id="passIIUser" name="passIIUser" placeholder="Confirma tu password" required="">
+				<input type="password" id="passUser" name="passUser" placeholder="Ingresa tu password" >		
+				<label for="passIIUser">Confirma tu password</label>
+				<input type="password" id="passIIUser" name="passIIUser" placeholder="Confirma tu password" >
 				<button type="submit">Registrate</button>
 			</form>
 		</p>
