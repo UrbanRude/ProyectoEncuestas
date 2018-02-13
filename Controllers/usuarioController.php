@@ -3,6 +3,7 @@
 	/**
 	* 	CONTROLADOR PARA EL LOGIN DEL USUARIO
 	*/
+	//SDLFKDFK
 	require_once '../Models/usuarioModel.php';
 	class UsuarioController
 	{
